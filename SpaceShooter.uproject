@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.16",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "CreaturePackPlugin",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/442925bb7f9541319366ab2d902c0c45"
+		},
+		{
+			"Name": "SubversionSourceControl",
+			"Enabled": false
+		}
+	]
+}
